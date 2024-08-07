@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactProject1/static/css/main.db3c62a1.css",
+    "main.js": "/ReactProject1/static/js/main.9dea7960.js",
+    "static/media/herroimg.png": "/ReactProject1/static/media/herroimg.b3fbf03a1615c4506c08.png",
+    "static/media/logo.svg": "/ReactProject1/static/media/logo.429ccb4fed48c0ffe431d442d6793bed.svg",
+    "static/media/iconDev.svg": "/ReactProject1/static/media/iconDev.767f162a2f1c8653ae7cac08255b962d.svg",
+    "static/media/iconDoc.svg": "/ReactProject1/static/media/iconDoc.0a2d397f14fc49780f3ea70629403b76.svg",
+    "static/media/slick.svg": "/ReactProject1/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ReactProject1/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ReactProject1/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/ReactProject1/index.html",
+    "static/media/slick.woff": "/ReactProject1/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/watchIcon.svg": "/ReactProject1/static/media/watchIcon.d1d6e25c0c15e1d81279f482644620e6.svg",
+    "static/media/iconNotice.svg": "/ReactProject1/static/media/iconNotice.c275f988a1f98663e63588b0ac6d36ea.svg",
+    "main.db3c62a1.css.map": "/ReactProject1/static/css/main.db3c62a1.css.map",
+    "main.9dea7960.js.map": "/ReactProject1/static/js/main.9dea7960.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db3c62a1.css",
+    "static/js/main.9dea7960.js"
+  ]
+}
